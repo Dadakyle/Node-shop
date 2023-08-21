@@ -1,0 +1,20 @@
+{
+  "name": "node-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dadakyle/Node-shop.git"
+  },
+  "author": "Dadakyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dadakyle/Node-shop/issues"
+  },
+  "homepage": "https://github.com/Dadakyle/Node-shop#readme"
+}
